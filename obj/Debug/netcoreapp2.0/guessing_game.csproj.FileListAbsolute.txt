@@ -1,0 +1,11 @@
+C:\Users\kdayz\Desktop\dotnet\lab2\002_guessing_game\bin\Debug\netcoreapp2.0\guessing_game.deps.json
+C:\Users\kdayz\Desktop\dotnet\lab2\002_guessing_game\bin\Debug\netcoreapp2.0\guessing_game.runtimeconfig.json
+C:\Users\kdayz\Desktop\dotnet\lab2\002_guessing_game\bin\Debug\netcoreapp2.0\guessing_game.runtimeconfig.dev.json
+C:\Users\kdayz\Desktop\dotnet\lab2\002_guessing_game\bin\Debug\netcoreapp2.0\guessing_game.dll
+C:\Users\kdayz\Desktop\dotnet\lab2\002_guessing_game\bin\Debug\netcoreapp2.0\guessing_game.pdb
+C:\Users\kdayz\Desktop\dotnet\lab2\002_guessing_game\obj\Debug\netcoreapp2.0\guessing_game.csprojAssemblyReference.cache
+C:\Users\kdayz\Desktop\dotnet\lab2\002_guessing_game\obj\Debug\netcoreapp2.0\guessing_game.csproj.CoreCompileInputs.cache
+C:\Users\kdayz\Desktop\dotnet\lab2\002_guessing_game\obj\Debug\netcoreapp2.0\guessing_game.AssemblyInfoInputs.cache
+C:\Users\kdayz\Desktop\dotnet\lab2\002_guessing_game\obj\Debug\netcoreapp2.0\guessing_game.AssemblyInfo.cs
+C:\Users\kdayz\Desktop\dotnet\lab2\002_guessing_game\obj\Debug\netcoreapp2.0\guessing_game.dll
+C:\Users\kdayz\Desktop\dotnet\lab2\002_guessing_game\obj\Debug\netcoreapp2.0\guessing_game.pdb
